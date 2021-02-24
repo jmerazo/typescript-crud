@@ -1,0 +1,19 @@
+Ejercicio
+
+Realizar un crud para registrar Usuarios guardando en una base de datos MySQL/MariaDB...
+
+Debe permitir las funciones básicas de:
+Listar usuarios
+Crear usuarios
+Actualizar usuarios
+Eliminar usuarios
+
+Campos:
+Nombre: Requerido y > 3 caracteres
+Apellido: Requerido y > 3 caracteres
+Celular: No es requerido, pero si lo digita debe ser de 10 caracteres
+Correo electronico: Requerido, formato email
+Contraseña: Tiene que tener minimo 8 caracteres, 1 Letra mayuscula y 1 caracteres especial
+Incluir en el proyecto SQL de la base de datos
+Github Url del repositorio
+Consola
